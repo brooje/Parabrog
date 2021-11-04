@@ -1,8 +1,5 @@
-# Paradise
-[![CI](https://github.com/ParadiseSS13/Paradise/workflows/CI/badge.svg)](https://github.com/ParadiseSS13/Paradise/actions?query=workflow%3ACI)
-[![Render Nanomaps](https://github.com/ParadiseSS13/Paradise/workflows/Render%20Nanomaps/badge.svg)](https://github.com/ParadiseSS13/Paradise/actions?query=workflow%3A%22Render+Nanomaps%22)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/paradisess13/paradise.svg)](http://isitmaintained.com/project/paradisess13/paradise "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/paradisess13/paradise.svg)](http://isitmaintained.com/project/paradisess13/paradise "Percentage of issues still open")
+# Parabrog
+
 
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
@@ -26,7 +23,7 @@
 
 ### LICENSE
 
-Paradise is licensed under the GNU Affero General Public License version 3.
+Parabrog is licensed under the GNU Affero General Public License version 3.
 As of 5th January 2015 any new contributions are licensed under the AGPL as well,
 if you wish to submit code under the GPL v3 then commits and files must be marked as such
 in comments. If you wish to use our code in a closed source manner you may use anything
